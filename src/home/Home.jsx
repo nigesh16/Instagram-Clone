@@ -1,4 +1,4 @@
-import Feeds from './feeds/feeds'
+import Feeds from './feeds/Feeds'
 import Stories from './stories/Stories'
 
 function Home(){
