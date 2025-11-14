@@ -1,0 +1,26 @@
+.c1{
+    position: fixed;
+    height: 100vh;
+    top: 0;
+    width: 16%;
+    background-color: rgb(152, 236, 236);
+}
+.c2{
+    margin-left: 16%;
+    width: 55%;
+}
+.c3{
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    width: 29%;
+}
+.main{
+    display: flex;
+    height: 100vh;
+}
+body{
+    font-family:sans-serif;
+    font-weight: 600;
+}

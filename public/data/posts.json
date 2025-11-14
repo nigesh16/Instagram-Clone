@@ -1,0 +1,169 @@
+
+[
+  {
+    "id": 1,
+    "like":false,
+    "username": "john_doe",
+    "isVerified": true,
+    "userProfilePic": "https://i.pravatar.cc/150?img=3",
+    "time": "8h",
+    "imageUrl": "https://picsum.photos/seed/pic1/600/600",
+    "caption": "Exploring the mountains 🏔️",
+    "likes": "12,230 likes",
+    "comments": [
+      { "username": "alice_99", "comment": "Wow, looks amazing!" },
+      { "username": "rover_hiker", "comment": "Where is this place?" },
+      { "username": "geo_explorer", "comment": "Nature at its finest!" }
+    ],
+    "timestamp": "2025-07-31T10:24:00Z"
+  },
+  {
+    "id": 2,
+    "like":false,
+    "username": "emily.art",
+    "isVerified": false,
+    "userProfilePic": "https://i.pravatar.cc/150?img=5",
+    "time": "5d",
+    "imageUrl": "https://picsum.photos/seed/pic2/600/600",
+    "caption": "My latest painting 🎨✨",
+    "likes": "34,330 likes",
+    "comments": [
+      { "username": "artist_joe", "comment": "Love the colors!" },
+      { "username": "colorqueen", "comment": "So dreamy and vibrant!" },
+      { "username": "brush_mania", "comment": "Can I buy this?" }
+    ],
+    "timestamp": "2025-08-01T08:15:00Z"
+  },
+  {
+    "id": 3,
+    "like":false,
+    "username": "travel_buddy",
+    "isVerified": true,
+    "userProfilePic": "https://i.pravatar.cc/150?img=9",
+    "time": "12h",
+    "imageUrl": "/data/sam.jpg",
+    "caption": "Chilling🌴🍹",
+    "likes": "90,870 likes",
+    "comments": [
+      { "username": "sunlover", "comment": "Living the dream!" },
+      { "username": "wanderlust22", "comment": "Bali vibes 😍" }
+    ],
+    "timestamp": "2025-08-01T05:45:00Z"
+  },
+  {
+    "id": 4,
+    "like":false,
+    "username": "fitness_freak",
+    "isVerified": false,
+    "userProfilePic": "https://i.pravatar.cc/150?img=6",
+    "time": "7d",
+    "imageUrl": "https://picsum.photos/seed/pic4/600/600",
+    "caption": "Leg day grind 💪",
+    "likes": "2,10,567 likes",
+    "comments": [
+      { "username": "gymratx", "comment": "Beast mode!" },
+      { "username": "ironlady", "comment": "Legs for days 🔥" },
+      { "username": "barbell_bro", "comment": "Respect bro!" }
+    ],
+    "timestamp": "2025-08-01T07:30:00Z"
+  },
+  {
+    "id": 5,
+    "like":false,
+    "username": "foodie_queen",
+    "isVerified": false,
+    "userProfilePic": "https://i.pravatar.cc/150?img=7",
+    "time": "2d",
+    "imageUrl": "https://picsum.photos/seed/pic5/600/600",
+    "caption": "Brunch goals 🥞🍓",
+    "likes": "520 likes",
+    "comments": [
+      { "username": "chef_maria", "comment": "Looks yummy!" },
+      { "username": "tastytreats", "comment": "I need this in my life!" },
+      { "username": "brunch_club", "comment": "Perfect plate 😋" }
+    ],
+    "timestamp": "2025-08-01T06:10:00Z"
+  },
+  {
+    "id": 6,
+    "like":false,
+    "username": "code_master",
+    "isVerified": true,
+    "userProfilePic": "https://i.pravatar.cc/150?img=8",
+    "time": "8h",
+    "imageUrl": "https://picsum.photos/seed/pic6/600/600",
+    "caption": "Shipping bug-free code 🧠💻",
+    "likes": "16,660 likes",
+    "comments": [
+      { "username": "dev_king", "comment": "Teach me your ways!" },
+      { "username": "bughunter", "comment": "Impossible 😅" }
+    ],
+    "timestamp": "2025-08-01T04:55:00Z"
+  },
+  {
+    "id": 7,
+    "like":false,
+    "username": "pet_love",
+    "isVerified": false,
+    "userProfilePic": "https://i.pravatar.cc/150?img=10",
+    "time": "12d",
+    "imageUrl": "https://picsum.photos/seed/pic7/600/600",
+    "caption": "Milo’s first bath 🐶🛁",
+    "likes": "68,200 likes",
+    "comments": [
+      { "username": "catmom", "comment": "Adorable 😍" },
+      { "username": "pawprints", "comment": "Fluffy clean boy!" },
+      { "username": "puploverz", "comment": "Too cute 🐾" }
+    ],
+    "timestamp": "2025-07-31T21:40:00Z"
+  },
+  {
+    "id": 8,
+    "like":false,
+    "username": "nature_nerd",
+    "isVerified": true,
+    "userProfilePic": "https://i.pravatar.cc/150?img=12",
+    "time": "3d",
+    "imageUrl": "/data/leo.jpg",
+    "caption": "Leo on fire 🔥🌅",
+    "likes": "7,730 likes",
+    "comments": [
+      { "username": "sunsetz", "comment": "This is unreal!" },
+      { "username": "earthtunes", "comment": "What a view!" }
+    ],
+    "timestamp": "2025-08-01T01:15:00Z"
+  },
+  {
+    "id": 9,
+    "like":false,
+    "username": "book_buff",
+    "isVerified": false,
+    "userProfilePic": "https://i.pravatar.cc/150?img=11",
+    "time": "9h",
+    "imageUrl": "https://picsum.photos/seed/pic9/600/600",
+    "caption": "Weekend read 📚☕",
+    "likes": "1295 likes",
+    "comments": [
+      { "username": "literary_lover", "comment": "Adding this to my list!" },
+      { "username": "storyjunkie", "comment": "Coffee + book = perfect 😌" }
+    ],
+    "timestamp": "2025-07-30T14:00:00Z"
+  },
+  {
+    "id": 10,
+    "like":false,
+    "username": "fashion_daily",
+    "isVerified": true,
+    "userProfilePic": "https://i.pravatar.cc/150?img=4",
+    "time": "12d",
+    "imageUrl": "/data/thanu.jpg",
+    "caption": "Learning Vlog 👗✨",
+    "likes": "22,410 likes",
+    "comments": [
+      { "username": "style_star", "comment": "Slaying 🔥" },
+      { "username": "fashionfan", "comment": "This fit is fire!" },
+      { "username": "glamgal", "comment": "Where’s that dress from?" }
+    ],
+    "timestamp": "2025-08-01T11:10:00Z"
+  }
+]

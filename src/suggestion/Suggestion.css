@@ -1,0 +1,38 @@
+
+.profile{
+    background-color: rgb(255, 255, 255);
+    padding-right: 65px;
+}
+.s-profilePic{
+    padding-top: 2px;
+    width: 45px;
+    border-radius: 50%;
+}
+.s-name{
+    font-size: 15px;
+}
+.s-name2{
+    font-size: 13px;
+}
+.switch{
+    font-size: 14px;
+}
+.s-heading{
+    font-size: 13px;
+    background-color: rgb(255, 255, 255);
+    padding-right: 127px;
+    padding-top: 15px;
+}
+.s-h2{
+    font-size: 14px;
+    color: rgb(112, 103, 103);
+}
+.sug2{
+    color: rgb(121, 121, 121);
+    font-size: 12px;
+    padding-left: 7px;
+}
+.sug{
+    margin-top: 5px;
+    padding-right: 125px;
+}
